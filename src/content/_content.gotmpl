@@ -1,0 +1,18 @@
+{{- $redirects := .Site.Data.redirects -}}
+{{ range $redirects }}
+{{ $content := dict "mediaType" "text/markdown" "value" "" }}
+{{ $params := dict 
+    "new_url" .new_url
+    "old_path" .old_path
+}}
+{{ $path := path.Join .old_path "index"}}
+{{ $page := dict
+    "content" $content
+    "kind" "page"
+    "path" $path
+    "title" .new_url
+    "params" $params
+    "layout" "redirect"
+}}
+{{ $.AddPage $page }}
+{{- end }}
