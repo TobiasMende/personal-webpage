@@ -53,7 +53,10 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s src
-
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./src/public
   # Deployment job
   deploy:
     environment:
