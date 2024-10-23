@@ -1,0 +1,12 @@
+# Created by https://www.gitignore.io/api/hugo
+# Edit at https://www.gitignore.io/?templates=hugo
+/.idea
+### Hugo ###
+# Hugo binary
+hugo*
+
+# Generated files at default location
+/src/public/
+/src/resources/_gen
+
+# End of https://www.gitignore.io/api/hugo
