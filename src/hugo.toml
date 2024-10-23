@@ -1,0 +1,108 @@
+# Site settings
+baseURL = "https://mende.io"
+languageCode = "en-US"
+title = "Tobi(as Mende)"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
+disableHugoGeneratorInject = true
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Copyright
+copyright = "&copy;2024 Tobias Mende"
+
+[services]
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Tobi(as Mende)"
+  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  shareImage = "images/social.jpg"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/profilbild.jpg"
+      position = "center center"
+
+
+  # Links
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Blog"
+        url = "https://unblocked.engineering/blog/"
+        new_tab = true
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:tobi@techunicorn.builders"
+        new_tab = false
+
+      [[params.links.list1.link]]
+        text = "Newsletter"
+        url = "https://nudge.unblocked.engineering/"
+
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/tobiasmende/"
+        new_tab = true
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "https://www.instagram.com/tobias_mende/"
+        new_tab = true
+
+      [[params.links.list2.link]]
+        text = "GitHub"
+        url = "https://github.com/TobiasMende"
+        new_tab = true
+
+  [[params.links]]
+    [params.links.list3]
+      heading = "My Work"
+
+      [[params.links.list3.link]]
+        text = "Tech Unicorn Builders"
+        url = "https://techunicorn.builders"
+        new_tab = true
+
+      [[params.links.list3.link]]
+        text = "Unblocked Engineering"
+        url = "https://unblocked.engineering"
+        new_tab = true
+
+      [[params.links.list3.link]]
+        text = "My CV"
+        url = "https://cv.mende.io"
+        new_tab = true
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
+
+[server]
+[[server.headers]]
+    for = '/**'
+    [server.headers.values]
+      Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://dummyimage.com"
+      Referrer-Policy = 'strict-origin-when-cross-origin'
+      X-Content-Type-Options = 'nosniff'
+      X-Frame-Options = 'DENY'
+      X-XSS-Protection = '1; mode=block'
