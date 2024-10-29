@@ -25,4 +25,4 @@ Outside of work, I’m a technical diver, where I practice the art of listening.
 Since 2019, I’ve called over 15 places home, immersing myself in diverse cultures and broadening my perspective. This nomadic lifestyle has enriched my understanding of people and deepened my empathy, which I bring into my work with clients.
 
 ### Let’s Connect!
-Are you facing challenges in product, engineering, or leadership? Or perhaps you’re looking for a trainer or speaker? I’d love to help! [Drop me an email](mailto:tobi@techunicorn.builders), and let’s explore how we can work together to achieve your goals. Looking forward to connecting! 😊
+Are you facing challenges in product, engineering, or leadership? Or perhaps you’re looking for a trainer or speaker? I’d love to help! [Drop me an email](mailto:tobi@techunicorn.builders), and let’s explore how we can work together to achieve your goals. Alternatively let's have a [virtual coffee ☕️](https://cal.com/tobiasmende/30min) and get to know each other (or catch-up). Looking forward to connecting! 😊
