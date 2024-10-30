@@ -2,6 +2,9 @@
 title: "Imprint"
 date: 2018-10-31T09:47:56+01:00
 draft: false
+comments: false
+type: page
+socialShare: false
 ---
 
 ## Information provided according to Sec. 5 German Telemedia Act (TMG):
