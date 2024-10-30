@@ -7,3 +7,6 @@
 [submodule "src/themes/blogge-hugo-theme"]
 	path = src/themes/blogge-hugo-theme
 	url = https://github.com/StaticMania/blogge-hugo-theme
+[submodule "src/themes/lightbi-hugo"]
+	path = src/themes/lightbi-hugo
+	url = git@github.com:TobiasMende/lightbi-hugo.git
