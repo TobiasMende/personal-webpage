@@ -1,6 +1,5 @@
 +++
-title = "Tobi(as Mende)"
-tagline = "Consultant. Speaker. Coach. Diver. Nomad."
+layout = "single"
 +++
 
 ### Hi, I’m Tobi!
