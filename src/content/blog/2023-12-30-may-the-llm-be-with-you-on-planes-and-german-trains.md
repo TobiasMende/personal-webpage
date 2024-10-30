@@ -50,13 +50,13 @@ brew install ollama
 
 Once installed, we can start `ollama` via the command `ollama serve`. This starts a server that exposes a local REST API.
 
-![The server is running after executing ollama serve.](https://unblocked.engineering/wp-content/uploads/2023/12/ollama-serve.png)
+![The server is running after executing ollama serve.](/img/import/2023-12-ollama-serve.png)
 
 The server is running after executing `ollama serve`.
 
 Ollama is also the client for this API, and we can now use the command `ollama pull <model-name>` to download a model. And `ollama run <model>` to run one. We can get help via `ollama help`.
 
-![After calling ollama run llama2:13b I can send prompts to the model.](https://unblocked.engineering/wp-content/uploads/2023/12/ollama-run.png)
+![After calling ollama run llama2:13b I can send prompts to the model.](/img/import/2023-12-ollama-run.png)
 
 After calling `ollama run llama2:13b` I can send prompts to the model.
 
@@ -72,19 +72,19 @@ I once tried `llama2:70b`, which needs at least 64 GB RAM according to the docum
 
 While you have a lot of choices while connected to the internet, on the plane, I had exactly one. Fortunately, I still had a `llama2:13b` model on my computer. So, seeing how far I can get with this offline companion would be fun.
 
-![Prompting Ollama to tell me how to configure Nginx as a reverse proxy.](https://unblocked.engineering/wp-content/uploads/2023/12/ollama-prompt.png)
+![Prompting Ollama to tell me how to configure Nginx as a reverse proxy.](/img/import/2023-12-ollama-prompt.png)
 
 Prompting Ollama to tell me how to configure Nginx as a reverse proxy.
 
 After a few seconds, the model returns a detailed (but not fully correct) response.
 
-![Ollama Response Part 1](https://unblocked.engineering/wp-content/uploads/2023/12/response-1.png)
+![Ollama Response Part 1](/img/import/2023-12-response-1.png)
 
 Ollama Response Part 1
 
 The first part contains Llamas suggestion for the `docker-compose` file. Overall, it looks pretty good. I would change a couple of things, such as the direction of the dependencies, but it is a good start.
 
-![Ollama Response Part 2](https://unblocked.engineering/wp-content/uploads/2023/12/response-2.png)
+![Ollama Response Part 2](/img/import/2023-12-response-2.png)
 
 Ollama Response Part 2
 

@@ -133,7 +133,7 @@ If there are tasks left that are not relevant enough for the increment to be con
 
 Here is a visual example:
 
-![](https://unblocked.engineering/wp-content/uploads/2024/04/Value-stream-Kanban-Boards.jpg)
+![](/img/import/2024-04-Value-stream-Kanban-Boards.jpg)
 
 * When things come in, they are in new. This can be a mix of ideas, problems, feature requests, …
 * A group consisting of people from product, engineering, Sales and CS collaborates to ensure that the new items are understood by everyone and that the shared understanding is documented. If the idea is already considered irrelevant at this point, it goes to “Discarded”. Otherwise, the card is move to the second column.

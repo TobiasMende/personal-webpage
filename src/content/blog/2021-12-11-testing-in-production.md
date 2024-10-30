@@ -10,7 +10,7 @@ tags = ["Software-Development","Software-Testing","Developer-Productivity","Soft
 +++
 # There is no system like production: Why you should test in production
 
-![](https://unblocked.engineering/wp-content/uploads/2021/10/testing-in-production.jpg)
+![](/img/import/2021-10-testing-in-production.jpg)
 
 Shipping software without testing sounds scary. And this is also, what this article **is not** about. Organisations spend a lot of time and money to make sure that code is as much error-free as possible, when it reaches production and affects users.
 

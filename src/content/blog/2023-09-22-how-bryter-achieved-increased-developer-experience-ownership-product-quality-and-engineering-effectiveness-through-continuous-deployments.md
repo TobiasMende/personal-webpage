@@ -78,4 +78,4 @@ In 2023, I gave a brief talk about BRYTER’s journey toward continuous deployme
 
 The recording The slides 
 
-[The journey to continuous deployment\_ Transforming technology, culture, and mindset](https://unblocked.engineering/wp-content/uploads/2023/04/The-journey-to-continuous-deployment%5F-Transforming-technology-culture-and-mindset.pdf)[Download](https://unblocked.engineering/wp-content/uploads/2023/04/The-journey-to-continuous-deployment%5F-Transforming-technology-culture-and-mindset.pdf)
+[The journey to continuous deployment\_ Transforming technology, culture, and mindset](/img/import/2023-04-The-journey-to-continuous-deployment%5F-Transforming-technology-culture-and-mindset.pdf)[Download](/img/import/2023-04-The-journey-to-continuous-deployment%5F-Transforming-technology-culture-and-mindset.pdf)

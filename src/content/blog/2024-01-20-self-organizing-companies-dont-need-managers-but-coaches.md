@@ -70,7 +70,7 @@ This doesn’t happen so much in self-organizing companies because there is no h
 
 Agile works. – That is, if you don’t limit it to the boundaries of a team and if people can change the organization as they discover a tension with current structures and processes. Putting it differently: **Traditional hierarchical companies are unlikely to reap the benefits of agile work.** Even worse, “agile” in those companies is often nothing more than a buzzword or a farce, as the changes needed for true agility cannot happen without convincing layers of management. 
 
-![“Finally Agile” (https://geek-and-poke.com/geekandpoke/2016/4/26/finally-agile)](https://unblocked.engineering/wp-content/uploads/2024/01/geek-and-poke-agile-project-scaled.jpeg)
+![“Finally Agile” (https://geek-and-poke.com/geekandpoke/2016/4/26/finally-agile)](/img/import/2024-01-geek-and-poke-agile-project-scaled.jpeg)
 
 “Finally Agile” (<https://geek-and-poke.com/geekandpoke/2016/4/26/finally-agile>)
 

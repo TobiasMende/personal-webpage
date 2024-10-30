@@ -78,7 +78,7 @@ With the previous considerations in mind, we can see product quality not as some
 
 Therefore, we can focus on two key aspects: communication and changeability. **How effective we can communicate and how effective we can change the software determines the perceived quality and also affects the cost, given that team size and other factors remain the same.**
 
-![System- & Mental Model Convergence through Communication and Change](https://unblocked.engineering/wp-content/uploads/2023/09/system-convergence.jpg)
+![System- & Mental Model Convergence through Communication and Change](/img/import/2023-09-system-convergence.jpg)
 
 System- & Mental Model Convergence through Communication and Change
 
@@ -106,7 +106,7 @@ On top of being able to change the company, the software must also be changeable
 
 Changeability, maintainability, modifiability, extensibility, and most other _\-ities_ are not absolute. A higher degree of changeability isn’t always better or leads to higher quality. **When we say, “This software isn’t changeable,” we mean that the needed changeability is above the actual changeability.** However, investing too much in creating changeable software can increase complexity and cost. Therefore, finding the right amount of “changeable” requires continuous communication.
 
-![The Changeability Tradeoff and Optimal Changeability](https://unblocked.engineering/wp-content/uploads/2023/09/changeability-tradeoff.jpg)
+![The Changeability Tradeoff and Optimal Changeability](/img/import/2023-09-changeability-tradeoff.jpg)
 
 The Changeability Tradeoff and Optimal Changeability
 

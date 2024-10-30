@@ -64,7 +64,7 @@ Another considerable time sink for engineers can be debugging and understanding 
 
 Today, tools like GitHub Copilot, ChatGPT, and [Jetbrains AI](https://www.jetbrains.com/ai/), the newest kid on the block, can explain code and error messages. CI/CD platforms like [CircleCI](https://circleci.com/) now have an “Explain this error” button to give a quick AI-generated explanation of an error and how to fix it. 
 
-![In CircleCI, AI-support is just a click of a button away.](https://unblocked.engineering/wp-content/uploads/2023/12/circleci-explain-this-error.png)
+![In CircleCI, AI-support is just a click of a button away.](/img/import/2023-12-circleci-explain-this-error.png)
 
 In CircleCI, AI-support is just a click of a button away.
 

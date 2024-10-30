@@ -32,7 +32,7 @@ These three aspects are described more in detail by Peter Morville as the User E
 
 With the UX honeycomb, Peter Morville describes user experience with seven facets: usefulness, desirability, accessibility, credibility, find-ability, usability and value.
 
-![](https://unblocked.engineering/wp-content/uploads/2024/01/2022-05-28-uxhoneycomb-1.jpg "The UX Honeycomb by Peter Morville")
+![](/img/import/2024-01-2022-05-28-uxhoneycomb-1.jpg "The UX Honeycomb by Peter Morville")
 
 The UX Honeycomb by Peter Morville
 

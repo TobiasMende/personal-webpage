@@ -20,7 +20,7 @@ Due to the significance of Maslow’s observations, the hierarchy of needs is im
 
 The hierarchy of needs is often represented as a pyramid with the basic needs at the bottom.
 
-![](https://unblocked.engineering/wp-content/uploads/2023/06/Maslow-Pyramid.png)
+![](/img/import/2023-06-Maslow-Pyramid.png)
 
 Maslow’s hierarchy states that higher needs move into the background when more basic needs are unmet.
 
@@ -73,7 +73,7 @@ I have mapped these factors to the hierarchy of needs, which gives us an approac
 
 ### Introducing Maslow’s Pyramid, the DevEx Edition
 
-![](https://unblocked.engineering/wp-content/uploads/2023/06/DevEx-Edition.png)
+![](/img/import/2023-06-DevEx-Edition.png)
 
 As you can see, none of the factors fall into the physiological needs category; fortunately, these needs are not an issue in most work environments of software engineers.
 

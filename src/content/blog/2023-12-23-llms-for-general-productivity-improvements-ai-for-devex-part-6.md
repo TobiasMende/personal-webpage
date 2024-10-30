@@ -69,7 +69,7 @@ This means two things:
 
 Therefore, take the warning at the bottom of each chat seriously and double-check answers when in doubt.
 
-![ChatGPT can make mistakes. Consider checking important information.](https://unblocked.engineering/wp-content/uploads/2023/12/chatgpt-can-make-mistakes.png)
+![ChatGPT can make mistakes. Consider checking important information.](/img/import/2023-12-chatgpt-can-make-mistakes.png)
 
 ChatGPT can make mistakes. Consider checking important information.
 

@@ -116,7 +116,7 @@ AI can quickly explain sentence words or give background on topics faster than s
 
 Just consider the _AMAZING_ browser [Arc](https://arc.net/). When I am searching on a webpage, and it does not find the exact wording, it automatically starts a ChatGPT-like conversation. Even though the word “Benefits” does not appear on the webpage, it gives me a brief and accurate summarization.
 
-![Asking “Benefits” on the Arc webpage, it gives me a summary of the benefits even though the word “Benefits” does not appear on the webpage.](https://unblocked.engineering/wp-content/uploads/2023/12/arc-benefits.png)
+![Asking “Benefits” on the Arc webpage, it gives me a summary of the benefits even though the word “Benefits” does not appear on the webpage.](/img/import/2023-12-arc-benefits.png)
 
 Asking “Benefits” on the Arc webpage, it gives me a summary of the benefits even though the word “Benefits” does not appear on the webpage.
 

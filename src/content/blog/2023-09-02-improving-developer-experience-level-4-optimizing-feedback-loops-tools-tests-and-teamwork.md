@@ -71,7 +71,7 @@ Thus, the best way to do reviews is continuously and synchronously, not in the a
 
 In the latest edition of DevEx Nuggets, we saw that swift and continuous feedback is at the core of an outstanding developer experience. This feedback spans from simple IDE interactions all the way to valuable input from customers on new features. 
 
-![](https://unblocked.engineering/wp-content/uploads/2023/08/Feedback-Loops.png)
+![](/img/import/2023-08-Feedback-Loops.png)
 
 Feedback loops and the delays that usually come with them
 
