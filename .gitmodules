@@ -1,12 +1,3 @@
-[submodule "src/themes/hugo-split-theme"]
-	path = src/themes/hugo-split-theme
-	url = https://github.com/escalate/hugo-split-theme.git
-[submodule "src/themes/poison"]
-	path = src/themes/poison
-	url = https://github.com/lukeorth/poison.git
-[submodule "src/themes/blogge-hugo-theme"]
-	path = src/themes/blogge-hugo-theme
-	url = https://github.com/StaticMania/blogge-hugo-theme
 [submodule "src/themes/lightbi-hugo"]
 	path = src/themes/lightbi-hugo
 	url = git@github.com:TobiasMende/lightbi-hugo.git
