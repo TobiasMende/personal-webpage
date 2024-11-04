@@ -21,7 +21,7 @@ Shortname = "mende-2"
 [Params]
 selfHosted = true
 mainSections = ["blog"]
-dateFormat = "02 January 2006"
+dateFormat = "2006-01-02"
 comments = true
 readingTime = true
 wordCount = false
