@@ -4,8 +4,10 @@ lastmod = 2024-10-30T01:30:00
 date = 2024-10-05T05:00:00
 +++
 
+{{< rawhtml >}}
+<img src="/img/profilbild-square.jpg" alt="Me speaking at the TDC 2024 about High-performing Teams | 📸 Terje Trobe/TDC" class="float-end w-25 m-3 rounded">
+{{< /rawhtml >}}
 ### Hi, I’m Tobi!
-
 I help software companies develop better software faster, creating win-win-win scenarios for businesses, customers, and employees. With over 15 years in product, engineering, and organizational development, I empower leaders to build high-performing teams in tech.
 
 ### What I Do
@@ -15,6 +17,9 @@ I partner with leaders and their teams in software organizations, primarily in s
 
 **Speaking**  
 I share insights on leadership, high-performing teams, and engineering culture at conferences, events, and within organizations.
+{{< rawhtml >}}
+<img src="/img/tdc2024-speaker.jpg" alt="Me speaking at the TDC 2024 about High-performing Teams | 📸 Terje Trobe/TDC" class="float-end w-50 m-3 rounded">
+{{< /rawhtml >}}
 
 **Coaching**  
 As a technical agile coach, I help teams create software with joy and less burnout. I also guide leaders in enhancing their skills and individuals in their personal development.
