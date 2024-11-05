@@ -5,7 +5,7 @@ date = 2024-10-05T05:00:00
 +++
 
 {{< rawhtml >}}
-<img src="/img/profilbild-square.jpg" alt="Me speaking at the TDC 2024 about High-performing Teams | 📸 Terje Trobe/TDC" class="float-end w-25 m-3 rounded">
+<img src="/img/profilbild-square.jpg" alt="Tobias Mende" class="float-end w-25 m-3 rounded">
 {{< /rawhtml >}}
 ### Hi, I’m Tobi!
 I help software companies develop better software faster, creating win-win-win scenarios for businesses, customers, and employees. With over 15 years in product, engineering, and organizational development, I empower leaders to build high-performing teams in tech.
