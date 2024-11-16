@@ -2,7 +2,7 @@
 title = "Better Alternatives to Performance Reviews"
 slug = "better-alternatives-to-performance-reviews"
 image = "/img/blog/2024-12-07-better-alternatives-to-performance-reviews.jpg"
-date = '2024-11-16T14:48:45+01:00'
+date = '2024-12-07T05:00:00'
 publishDate = '2024-12-07T05:00:00'
 description = "This article critiques traditional performance reviews and advocates for alternative approaches that enhance employee feedback and engagement. It discusses the negative impact of outdated review systems on motivation and performance, proposing continuous feedback mechanisms that prioritize timely communication. By addressing key organizational needs—such as effective feedback, fair salary decisions, and clear direction—the article offers strategies for fostering a more collaborative and transparent workplace culture, ultimately empowering individuals and teams for better organizational outcomes."
 tags = ["Business","Compensation","Culture","Employee-Happiness","Engineering-Leadership","High-Purpose-Environments","Practices","Ways-To Decrease Performance","Engineering-Excellence","Organizational-Design"]
