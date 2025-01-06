@@ -1,9 +1,9 @@
 +++
 title = "Organizational Change Leadership"
 slug = "organizational-change-leadership"
-image = "/img/blog/2025-01-31-organizational-change-leadership.png"
-date = '2025-01-31T05:00:00'
-publishDate = '2025-01-31T05:00:00'
+image = "/img/blog/2025-02-01-organizational-change-leadership.png"
+date = '2025-02-01T05:00:00'
+publishDate = '2025-02-01T05:00:00'
 description = "This article examines the critical role of leadership in facilitating organizational change, highlighting strategies and collaborative approaches that empower teams to adapt and thrive. Discover how diverse perspectives can drive transformation and foster a culture of resilience and growth within organizations."
 tags = ["Culture","Leadership","Organizational-Design","Business","Employee-Happiness"]
 +++
