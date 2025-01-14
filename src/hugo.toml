@@ -49,7 +49,7 @@ previewCardImagePlacement = "bottom"
   linkedin = "tobiasmende"
   github = "TobiasMende"
   gitlab = "TobiasMende"
-  mastodon = "https://mastodon.social/@tobias_mende"
+  mastodon = "mastodon.social/@tobias_mende"
 
 [[menu.main]]
     name = "Home"
