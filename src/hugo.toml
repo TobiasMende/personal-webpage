@@ -13,7 +13,6 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 enableRobotsTXT = true
 enableGitInfo = false
-Paginate = 6
 summaryLength  = "30"
 
 [Config.Services.Disqus]
