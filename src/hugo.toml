@@ -17,6 +17,7 @@ summaryLength  = "30"
 
 [Config.Services.Disqus]
 Shortname = "mende-2"
+
 [Params]
 selfHosted = true
 mainSections = ["blog"]
@@ -37,6 +38,7 @@ pagination = "10"
 hideAuthor = false
 description="Curious. Consultant. Speaker. Coach. Diver. Nomad."
 previewCardImagePlacement = "bottom"
+matomoTagManagerContainerUrl = "https://analytics.inocea.consulting/js/container_jyL2LDot.js"
 
 [Params.Author]
   name = "Tobias Mende"
