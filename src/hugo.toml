@@ -68,14 +68,19 @@ matomoTagManagerContainerUrl = "https://analytics.inocea.consulting/js/container
     weight = 3
 
 [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 1
+
+[[menu.footer]]
     name = "Imprint"
     url = "/imprint"
-    weight = 1
+    weight = 2
 
 [[menu.footer]]
     name = "Privacy Policy"
     url = "/privacy-policy"
-    weight = 2
+    weight = 3
 
 [sitemap]
   changefreq = "monthly"
