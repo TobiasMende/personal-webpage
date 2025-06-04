@@ -63,9 +63,14 @@ matomoTagManagerContainerUrl = "https://analytics.inocea.consulting/js/container
     weight = 2
 
 [[menu.main]]
+    name = "Talks"
+    url = "/talks/"
+    weight = 3
+
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 3
+    weight = 4
 
 [[menu.footer]]
     name = "Contact"

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 ">
+    <p><em>{{ .Params.description }}</em></p>
+    {{ .Content }}
+    {{ with .Params.slides }}
+      <p><a href="{{ . }}" target="_blank">📥 Download Slides (PDF)</a></p>
+    {{ end }}
+    {{ with .Params.recording}}
+    <p><a href="{{ . }}" target="_blank">🎥 Watch Recording</a></p>
+    {{ end}}
+</div>
+</div>
+</div>
+{{ end }}
