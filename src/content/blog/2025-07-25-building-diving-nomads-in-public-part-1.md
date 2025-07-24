@@ -5,7 +5,7 @@ image = "/img/blog/2025-07-25-building-diving-nomads-in-public-part-1.jpg"
 date = '2025-07-25T05:00:00'
 publishDate = '2025-07-25T05:00:00'
 description = "How we built a platform for digital nomad divers using automation-first tools like n8n, NocoDB, and Vercel. A lean tech stack case study showing how to move fast, validate ideas, and deliver value without writing code from day one."
-tags = ["Startup", "Business", "Automation", "Software-Development", "Case-Study", "Technical-Leadership", "Developer-Productivity", "Practices"]
+tags = ["Startup", "Business", "Automation", "Software-Development", "Case-Study", "Practices"]
 +++
 
 # Building Diving Nomads in Public: How We Onboard Dive Centers and Automate Memberships with (Almost) No Code
