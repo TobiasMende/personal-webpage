@@ -10,10 +10,11 @@ socialShare: false
 ## Information provided according to Sec. 5 German Telemedia Act (TMG):
 
 Tobias Mende
-INOCEA Consulting Ltd.
-Terra Santa 1, Office 7
-6012 Larnaca
-Cyprus
+INOCEA LLC
+Scanbox 16656
+Ehrenbergstr. 16a
+10245 Berlin
+Germany
 (Letters only)
 
 ## Contact:
@@ -24,10 +25,11 @@ Email: web@mende.io
 ## Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 
 Tobias Mende
-INOCEA Consulting Ltd.
-Terra Santa 1, Office 7
-6012 Larnaca
-Cyprus
+INOCEA LLC
+Scanbox 16656
+Ehrenbergstr. 16a
+10245 Berlin
+Germany
 (Letters only)
 
 ## Liability for Contents
